@@ -5,9 +5,9 @@ var typewriter = new Typewriter(app, {
     deleteSpeed: 1,
 });
 
-typewriter.typeString('<span style="color: white">Soy<span> <strong>Desarrollador Web</strong>')
+typewriter.typeString('<span style="color: white">Soy<span> <strong>Desarrollador De Software</strong>')
     .pauseFor(1000)
-    .deleteChars(17)
+    .deleteChars(25)
     .typeString('<strong>Tester QA</strong>')
     .pauseFor(1000)
     .deleteChars(9)
